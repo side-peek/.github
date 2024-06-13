@@ -77,27 +77,28 @@
 
 ### 로그인
 
-<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/9a8893c8-f2d1-42ee-9723-849e644092e2" />
+<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/9a8893c8-f2d1-42ee-9723-849e644092e2" width="100%"/>
 
 ### 게시글 작성
 
-<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/ea540d14-1706-42be-81a7-83badb5dc354" />
+<img src="https://github.com/side-peek/.github/assets/106851561/43af6771-063b-48d8-b0c7-9953750a2b82" width="100%"/>
 
 ### 게시글 조회
 
-<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/5e656b1b-8aba-47ed-83c5-178af930f9b8" />
+<img src="https://github.com/side-peek/.github/assets/106851561/857ea1fb-2b4a-4dcb-bd76-96ea82f232c4" width="100%"/>
+
 
 ### 검색 및 필터
 
-<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/ced4eddd-7c97-4cd4-beb3-c363ff9d4334" />
+<img src="https://github.com/side-peek/.github/assets/106851561/6a10d66b-5fc8-4394-b96a-3f2b4ea89d13" width="100%"/>
 
 ### 내 정보(조회)
 
-<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/7b6204c2-7752-469a-88fa-4d7e1b4ef981" />
+<img src="https://github.com/side-peek/.github/assets/106851561/505e7168-7c4d-46d1-9a9c-254a40abf710" width="100%"/>
 
 ### 내 정보(변경)
 
-<img src="https://github.com/side-peek/sidepeek_frontend/assets/106851561/f7c31a95-b0e4-4851-922a-a6da1c221df8" />
+<img src="https://github.com/side-peek/.github/assets/106851561/870d62c5-5239-41d0-9c64-1179ac3e9ab9" width="100%"/>
 
 ## 🛠️ 기술 스택
 
